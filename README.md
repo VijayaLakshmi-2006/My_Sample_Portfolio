@@ -16,3 +16,8 @@ A simple and responsive personal portfolio website built with HTML &amp; CSS to 
    ```bash
    git clone https://github.com/your-username/portfolio.git
 
+📫 Contact
+
+📧 Email: vijayalakshmivangala476@gmail.com
+
+🔗 https://www.linkedin.com/in/vijayalakshmi-vangala-b891a7328/
